@@ -1,16 +1,13 @@
 {
   "admin": [
     "Blue_portal",
+    "Skrynbox",
     "Classyham",
-    "Skrynbox"
-  ],
-  "staff": [
-    "ThomaSmooth"
-  ],
-  "DJ": [
     "strasz",
     "Zoеy",
     "uzugu",
-    "Tupper"
+    "Tupper",
+    "ThomaSmooth"
+    
   ]
 }
