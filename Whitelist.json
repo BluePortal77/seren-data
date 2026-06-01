@@ -5,5 +5,8 @@
     "Classyham",
     "_SERENCAM",
     "Llamahat"
-  ]
+  ],
+  "worldstatev4": {
+    "bDoorsOpen": false
+  }
 }
