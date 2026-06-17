@@ -2,5 +2,5 @@
 *.psd filter=lfs diff=lfs merge=lfs -text
 *.psb filter=lfs diff=lfs merge=lfs -text
 
-# PNGs stay in normal Git so GitHub Pages serves them directly
-*.png !filter !diff !merge text
+# PNGs stay in normal Git (served by Pages) and are BINARY - never EOL-normalize
+*.png -filter -diff -merge -text
