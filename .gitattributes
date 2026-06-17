@@ -1,3 +1,6 @@
+# Large layered design files -> Git LFS (not served via Pages; may exceed 100MB)
 *.psd filter=lfs diff=lfs merge=lfs -text
-*.png filter=lfs diff=lfs merge=lfs -text
-*.png !text !filter !merge !diff
+*.psb filter=lfs diff=lfs merge=lfs -text
+
+# PNGs stay in normal Git so GitHub Pages serves them directly
+*.png !filter !diff !merge text
