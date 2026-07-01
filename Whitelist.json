@@ -11,6 +11,6 @@
     "Blue_Portal"
   ],
   "worldstatev4": {
-    "bDoorsOpen": false
+    "bDoorsOpen": true
   }
 }
