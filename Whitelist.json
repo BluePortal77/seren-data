@@ -1,17 +1,36 @@
 {
-  "admin": [
-    "Skrynbox",
-    "Llamahat",
-    "Classyham",
-    "(HeyNat)",
+  "WorldPerms": {
+    "Admin": [
+      "Classyham",
+      "Skrynbox",
+      "Blue_portal",
+      "_SERENCAM"
+    ],
+    "AV": [
+      "Classyham",
+      "Llamahat",
+      "_SERENCAM"
+    ],
+    "DJ": [
+      "Blue_portal",
+      "Skrynbox",
+      "K A J Y",
+      "Lennox \\u30EC\\u30CE\\u30C3\\u30AF\\u30B9"
+    ],
+    "TeleportAccess": [
     "\uFF08HeyNat\uFF09",
     "glo",
-    "ThomaSmooth",
-    "Blue_portal",
-    "_SERENCAM",
-    "Lennox \u30EC\u30CE\u30C3\u30AF\u30B9"
-  ],
-  "worldstatev4": {
-    "bDoorsOpen": true
+    "ThomaSmooth"
+    ],
+    "Bot": [
+      "_SERENCAM",
+      "LlamahatBot"
+    ]
+  },
+  "WorldState": {
+    "Seren4": {
+      "MainVenueOpen": false,
+      "LavOpen": false
+    }
   }
 }
