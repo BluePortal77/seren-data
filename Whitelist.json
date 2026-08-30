@@ -38,7 +38,7 @@
   "WorldState": {
     "Seren4": {
       "MainVenueOpen": true,
-      "LavOpen": false
+      "LavOpen": true
     }
   }
 }
