@@ -4,7 +4,8 @@
       "Classyham",
       "Skrynbox",
       "Blue_portal",
-      "_SERENCAM"
+      "_SERENCAM",
+      "MontyIO"
     ],
     "AV": [
       "Classyham",
@@ -38,7 +39,7 @@
   "WorldState": {
     "Seren4": {
       "MainVenueOpen": false,
-      "LavOpen": true
+      "LavOpen": false
     }
   }
 }
