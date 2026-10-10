@@ -47,7 +47,7 @@
       "LavOpen": false
     },
     "Seren1": {
-      "DoorOpen": false
+      "DoorOpen": true
     }
   }
 }
