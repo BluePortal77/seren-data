@@ -5,13 +5,13 @@
       "Skrynbox",
       "Blue_portal",
       "_SERENCAM",
-      "MontyIO"
     ],
     "AV": [
       "Classyham",
       "Llamahat",
       "_SERENCAM",
-      "MontyIO"
+      "MontyIO",
+      "xkmerlz"
     ],
     "DJ": [
       "Blue_portal",
@@ -44,7 +44,7 @@
   },
   "WorldState": {
     "Seren4": {
-      "MainVenueOpen": true,
+      "MainVenueOpen": false,
       "LavOpen": false
     },
     "Seren1": {
