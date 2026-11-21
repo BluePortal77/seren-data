@@ -32,19 +32,19 @@
       "time": "23:00",
       "name": "Howl",
       "vrc": "",
-      "stream": ""
+      "stream": "rtspt://stream.vrcdn.live/live/howldj"
     },
     {
       "time": "00:00",
       "name": "Monastery",
-      "vrc": "",
-      "stream": ""
+      "vrc": "Monastery",
+      "stream": "rtspt://stream.vrcdn.live/live/monastery1"
     },
     {
       "time": "01:00",
       "name": "Able",
-      "vrc": "",
-      "stream": ""
+      "vrc": "ablemaxxeuse",
+      "stream": "rtspt://stream.vrcdn.live/live/moxel"
     }
   ]
 }
