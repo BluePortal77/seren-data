@@ -1,0 +1,50 @@
+{
+  "_comment": [
+    "The night's DJ lineup. Read by the VJ rig's web remote (/schedule) and",
+    "published to GitHub Pages alongside Whitelist.json so the in-world side",
+    "can read it the same way.",
+    "",
+    "Lineup order IS running order -- it is never sorted, because a lineup",
+    "that crosses midnight (23:00 -> 00:00) does not sort.",
+    "",
+    "times are LOCAL wall-clock at the venue, \"HH:MM\", no timezone.",
+    "Event.date: leave EMPTY for a rolling weekly event (the rig anchors the",
+    "lineup on tonight); set \"YYYY-MM-DD\" to pin it to one night.",
+    "Event.slot_minutes: countdown fallback when a set time is missing or for",
+    "the last slot; otherwise the gap to the next set time wins.",
+    "",
+    "vrc    = the DJ VRChat username (matches the Whitelist.json DJ group)",
+    "stream = a VRCDN name, or any full stream URL"
+  ],
+  "Event": {
+    "name": "Seren",
+    "date": "",
+    "slot_minutes": 60
+  },
+  "Lineup": [
+    {
+      "time": "22:00",
+      "name": "Stroobie",
+      "vrc": "",
+      "stream": ""
+    },
+    {
+      "time": "23:00",
+      "name": "Howl",
+      "vrc": "",
+      "stream": ""
+    },
+    {
+      "time": "00:00",
+      "name": "Monastery",
+      "vrc": "",
+      "stream": ""
+    },
+    {
+      "time": "01:00",
+      "name": "Able",
+      "vrc": "",
+      "stream": ""
+    }
+  ]
+}
