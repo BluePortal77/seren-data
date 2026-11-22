@@ -21,30 +21,5 @@
     "date": "",
     "slot_minutes": 60
   },
-  "Lineup": [
-    {
-      "time": "22:00",
-      "name": "Stroobie",
-      "vrc": "Stroobie",
-      "stream": "rtspt://stream.vrcdn.live/live/stroobie"
-    },
-    {
-      "time": "23:00",
-      "name": "Howl",
-      "vrc": "",
-      "stream": "rtspt://stream.vrcdn.live/live/howldj"
-    },
-    {
-      "time": "00:00",
-      "name": "Monastery",
-      "vrc": "Monastery",
-      "stream": "rtspt://stream.vrcdn.live/live/monastery1"
-    },
-    {
-      "time": "01:00",
-      "name": "Able",
-      "vrc": "ablemaxxeuse",
-      "stream": "rtspt://stream.vrcdn.live/live/moxel"
-    }
-  ]
+  "Lineup": []
 }
